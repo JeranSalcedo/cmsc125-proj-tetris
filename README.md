@@ -1,1 +1,1 @@
-# cmsc125-proj-tetrix
+# cmsc125-proj-tetris
